@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Hiroki-ymt
 - 👀 I’m a Mechanical engineer for infrastructure such as hydro gates, pumps, equipment in tunnels etc..
-- 🌱 I’m just starting programing for making softwares to use for my work.
+- 🌱 I’m planning a project for making softwares to use for my work.
+
+
 
 <!---
 Hiroki-ymt/Hiroki-ymt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
